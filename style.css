@@ -1,0 +1,24 @@
+body{
+  margin:0;
+  font: normal 16px Arial, Helvetica, sand-serif;
+  color:#333;
+}
+
+#particles-js{
+  background: url('space.jpg');
+  height:1000px;
+  background-size: cover;
+  opacity:4;
+}
+
+#login{
+  
+  opacity:100;
+  padding:2em;
+ 
+  position:absolute;
+ 
+  width: 100%;
+}
+
+
